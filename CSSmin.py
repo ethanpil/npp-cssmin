@@ -1,4 +1,5 @@
 # CSSmin.py for Notepad++ Python Scripting plugin
+# https://github.com/ethanpil/npp-cssmin
 # This is a simple script that contains a Python port of the YUI CSS Compressor so you can minify both CSS and JS
 #
 # Version 1.0
